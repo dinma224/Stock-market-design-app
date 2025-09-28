@@ -5,7 +5,6 @@ Prototype
 
 View on Figma (https://www.figma.com/proto/mw3xiKRwBcA2MsJLPCaLVo/Untitled?node-id=20-8&t=ZJ00DHBGx7T10Py7-1)
 
-
 Features
     •    Real-time stock price tracking
     •    Portfolio management
