@@ -34,7 +34,6 @@ What I Learned
     •    Portfolio Building – Creating professional, portfolio-ready projects that can be shared with recruiters.
 
 Author:
-
 Awugo Precious Nwadinma
     •    GitHub Profile: https://github.com/dinma224
     •    Linkeldn profile:
