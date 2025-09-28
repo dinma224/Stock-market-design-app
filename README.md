@@ -38,6 +38,6 @@ Author:
 Awugo Precious Nwadinma
     •    GitHub Profile: https://github.com/dinma224
     •    Linkeldn profile:
-Awugo Precious Nwadinma
+
     •    GitHub Profile: https://github.com/dinma224
     •    Project Repository: https://github.com/dinma224/stock-market-app
